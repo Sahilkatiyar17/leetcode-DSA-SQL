@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [1877-find-followers-count](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
