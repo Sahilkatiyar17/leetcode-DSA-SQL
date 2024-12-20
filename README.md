@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-find-followers-count](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1877-find-followers-count) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
