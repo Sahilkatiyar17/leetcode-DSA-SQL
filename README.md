@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0620-not-boring-movies) |
 | [1480-movie-rating](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1480-movie-rating) |
 | [1877-find-followers-count](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1877-find-followers-count) |
 ## String
