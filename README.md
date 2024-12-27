@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0792-binary-search) |
 ## Queue
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
