@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0577-employee-bonus) |
+| [0619-biggest-single-number](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0620-not-boring-movies) |
 | [1317-monthly-transactions-i](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1317-monthly-transactions-i) |
 | [1480-movie-rating](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1480-movie-rating) |
