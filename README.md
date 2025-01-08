@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [1023-time-based-key-value-store](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
