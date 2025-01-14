@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0792-binary-search) |
 ## Queue
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1023-time-based-key-value-store) |
 ## Matrix
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
