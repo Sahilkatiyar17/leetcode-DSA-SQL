@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1390-average-selling-price) |
 | [1480-movie-rating](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1480-movie-rating) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1877-find-followers-count) |
 ## String
 |  |
