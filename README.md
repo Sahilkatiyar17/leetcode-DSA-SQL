@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0577-employee-bonus) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1135-customers-who-bought-all-products) |
