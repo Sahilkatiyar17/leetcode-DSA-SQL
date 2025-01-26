@@ -24,5 +24,5 @@ class Solution:
                 else:
                     l=mid+1
             else:
-                l+=1
+                l+=1 # this basically for handling the condition of nums[l]==nums[mid]
         return False
