@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0937-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
