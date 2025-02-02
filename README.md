@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0735-asteroid-collision](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0792-binary-search) |
 ## Queue
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0735-asteroid-collision) |
 ## Bit Manipulation
 |  |
 | ------- |
