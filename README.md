@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0394-decode-string) |
 | [1023-time-based-key-value-store](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0937-online-stock-span) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0394-decode-string) |
 ## Simulation
 |  |
 | ------- |
