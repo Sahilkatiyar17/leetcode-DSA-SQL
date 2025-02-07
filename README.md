@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0394-decode-string) |
 | [1023-time-based-key-value-store](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1023-time-based-key-value-store) |
 ## Stack
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1023-time-based-key-value-store) |
 ## Math
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -244,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahilkatiyar17/leetcode-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
